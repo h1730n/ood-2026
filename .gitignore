@@ -1,0 +1,11 @@
+# macOS 기본 생성 파일
+.DS_Store
+
+# C/C++ 맥 환경 빌드 부산물 및 디버그 심볼
+*.dSYM/
+*.o
+*.out
+
+# 이번 실습에서 생성된 실행 파일 (확장자가 없는 파일)
+LetDebug
+Hello World
